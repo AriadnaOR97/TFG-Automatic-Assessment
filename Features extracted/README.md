@@ -31,7 +31,7 @@ exercise played.
 +---------------+-------+	* Note that the last exercise increase the tens
 | 007Y.wav	|   L	|	
 +---------------+-------+	So, for example, the file 0053.wav is the exercise 
-				nº 18 played by an expert. 
+				nÂº 18 played by an expert. 
 _____________________________________________________________________________________
 CONTENT OF EACH FILE
 _____________________________________________________________________________________
